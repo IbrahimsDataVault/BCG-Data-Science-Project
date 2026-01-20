@@ -62,7 +62,7 @@ Predictive modeling using Random Forest classifier to predict customer churn.
 
 The analysis revealed:
 
-1. Price sensitivity is a significant factor in customer churn
+1. Price sensitivity is not a significant factor in customer churn
 2. Consumption patterns correlate with churn behavior
 3. Contract renewal dates present critical intervention points
 4. Customer tenure and engagement metrics are strong predictors
@@ -100,11 +100,6 @@ jupyter notebook
 **Ibrahim Ibrahim**
 - Data Scientist & Analytics Professional
 - GitHub: [@IbrahimsDataVault](https://github.com/IbrahimsDataVault)
-
-## Acknowledgments
-
-- BCG for the project framework and business context
-- PowerCo for providing the data and business problem
 
 ## License
 
